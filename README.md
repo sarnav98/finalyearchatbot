@@ -50,10 +50,3 @@ To make sure it is installed correctly, open IDLE and execute :
 If no errors appeared then the installation is done correctly.
 Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
-
-## :suspect: Project Members
-
-- [Aryan Veturekar](https://github.com/aryanveturekar)
-- [Himanshu Singh](https://github.com/himanshusiingh)
-- [Danish Shaikh](https://github.com/danishsshaikh)
-
